@@ -1,7 +1,7 @@
 HIT-Horisean
 ===
 ![alt text](https://github.com/yenyulai/HIT-Horiseon/blob/master/images/Horiseon.png?raw=true)
-
+![alt text](https://github.com/yenyulai/HIT-Horiseon/blob/master/images/Horiseon2.png?raw=true)
 ## Installation
 
   Use gitlab to clone the original code.
