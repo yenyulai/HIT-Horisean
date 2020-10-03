@@ -4,7 +4,8 @@ HIT-Horisean
 Use gitlab to clone the original code.
 ## Usage
 To use <Horiseon>. follow these steps:
-![alt text](https://github.com/[yenyulai]/[HIT-Horiseon]/blob/[master]/image.jpg?raw=true)
+  ![alt text](https://github.com/[yenyulai]/[HIT-Horiseon]/blob/[master]/usage.png?raw=true)
+  ![](usage.gif)
   
 
 
