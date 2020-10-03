@@ -1,19 +1,38 @@
 HIT-Horisean
 ===
+![alt text](https://github.com/yenyulai/HIT-Horiseon/blob/master/images/Horiseon.png?raw=true)
+
 ## Installation
-Use gitlab to clone the original code.
+
+  Use gitlab to clone the original code.
+
+  Open code using any IDE (VS Code recommanded)
+
 ## Usage
-To use <Horiseon>. follow these steps:
-  ![alt text](https://github.com/[yenyulai]/[HIT-Horiseon]/blob/[master]/usage.png?raw=true)
-  ![](usage.gif)
+
+  To use Horiseon. follow these steps
+  
+  use the code in Root
+  
+  use the css file in root/css
+  
+  use the images in root/images
+  
+  To funciton the link in nav bar
+
+  ![alt text](https://github.com/yenyulai/HIT-Horiseon/blob/master/images/usage.png?raw=true)
+  
+  ![](https://github.com/yenyulai/HIT-Horiseon/blob/master/images/usage.gif)
   
 
 
 ## Credit
-Create by German Arcila 
+
+Created by German Arcila 
 https://utoronto.bootcampcontent.com/utoronto-bootcamp/utor-tor-fsf-pt-09-2020-u-c/tree/master/01-HTML-Git-CSS/02-Homework
 
 ## Liciense
+
 MIT License
 
 Copyright (c) [2020] [Yenyu Lai]
