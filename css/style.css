@@ -1,16 +1,20 @@
 /* -------------------------------Tag Selectors ----------------------------------*/
+
 * {
+/* This define the dimention of the container */
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
 a {
+    /* Set the color and text for all the a tag */
     color: #ffffff;
     text-decoration: none;
 }
 
 article {
+    /* Set the dimention and position for all the article tag */
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -22,15 +26,18 @@ article {
 }
 
 aside {
+    /* selected the contennt color and dimention for aside tag*/
     margin-bottom: 32px;
     color: #ffffff;
 }
 
 body {
+    /* selected the bgcolor for the whole body */
     background-color: #d9dcd6;
 }
 
 footer {
+    /* selected the dimention and style for footer */
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -38,14 +45,17 @@ footer {
 }
 
 footer h2 {
+    /* selected the font-size for h2 inside the footer */
     font-size: 20px;
 }
 
 img {
+    /* selected the dimention for all the img */
     max-height: 200px;
 }
 
 header {
+    /* selected the dimention and styl for the head tag */
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
@@ -53,26 +63,31 @@ header {
 }
 
 h1 {
+    /* selected the position and size of the h1 content */
     display: inline-block;
     font-size: 48px;
 }
 
 h2 {
+    /* selected the dimention and size for h2 content */
     margin-bottom: 20px;
     font-size: 36px;
 }
 
 h3 {
+    /* selected the dimention and size for h3 content */
     margin-bottom: 10px;
     text-align: center;
 }
 
 li {
+    /* selected the dimention and position for list tag */
     display: inline-block;
     margin-left: 25px;
 }
 
 nav {
+    /* selected the dimention and position to nav bar */
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -81,10 +96,12 @@ nav {
 }
 
 p {
+    /* selected the size for paragraph content */
     font-size: 16px;
 }
 
 section{
+    /* selected the style for section content */
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -94,18 +111,21 @@ section{
 }
 
 main {
+    /* selected the dimention for main tag */
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
 ul {
+    /* selected the style for unorder list */
     list-style-type: none;
 }
 
 /* ---------------------------------This is class selector---------------------------------------- */
 
 .asideimg {
+    /* selected the dimention for asideimg class */
     display: block;
     margin: 10px auto;
     max-width: 150px;
@@ -122,20 +142,24 @@ ul {
 }
 
 .seo {
+    /* selected the color for three letters in header */
     color: #d9dcd6;
 }
 
 .online-reputation-management {
+    /* selected the position for ORM class */
     float: right;
     margin-left: 25px;
 }
 
 .search-engine-optimization {
+    /* selected the position for SEO class */
     float: left;
     margin-right: 25px;
 }
 
 .social-media-marketing {
+    /* selectd the position for SMM class */
     float: left;
     margin-right: 25px;
 }
